@@ -3,15 +3,7 @@
 
   color: #fff;
 
-  border-radius: 5px;
-
-  box-shadow: 0 0 5px #03e9f4,
-
-              0 0 25px #03e9f4,
-
-              0 0 50px #03e9f4,
-
-              0 0 100px #03e9f4;";
+  border-radius: 5px;";
 -webkit-box-shadow: 0px 20px 20px #86CEEB;">
 <img src="https://github-readme-stats.vercel.app/api?username=ClowToon&show_icons=true&theme=tokyonight"/>
   <br>
