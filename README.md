@@ -1,5 +1,5 @@
 ## Olá, me chamo Clowtoon, sou estudante da área de programação e segurança da informação.
-<div Align = "Center" style= "  background: #03e9f4;
+<div Align = "Center" style="border:3px dotted #9F0";
 
   color: #fff;
 
