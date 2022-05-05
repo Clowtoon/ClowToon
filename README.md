@@ -1,10 +1,5 @@
 ## Olá, me chamo Clowtoon, sou estudante da área de programação e segurança da informação.
-<div Align = "Center" style="border:3px dotted #9F0";
-
-  color: #fff;
-
-  border-radius: 5px;";
--webkit-box-shadow: 0px 20px 20px #86CEEB;">
+<div Align = "Center" style="border:3px dotted #9F0">
 <img src="https://github-readme-stats.vercel.app/api?username=ClowToon&show_icons=true&theme=tokyonight"/>
   <br>
   <br>
