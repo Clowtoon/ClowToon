@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div Align = "Center">
-<img src="https://github-readme-stats.vercel.app/api?username=clowtoon&show_icons=true&theme=highcontrast&text_color=blue"/>
+<img src="https://github-readme-stats.vercel.app/api?username=clowtoon&show_icons=true&theme=highcontrast"/>
   <br>
   <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clowtoon&theme=dark"/>
