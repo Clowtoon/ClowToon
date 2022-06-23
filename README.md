@@ -1,4 +1,4 @@
-## Olá, me chamo Clowtoon, sou estudante da área de programação e segurança da informação.
+## Olá, me chamo Leco, sou estudante da área de programação e segurança da informação.
 <div align="center">
   <a href="https://github.com/ClowToon">
   <img width="49%" height="200px"  src="https://github-readme-stats.vercel.app/api?username=ClowToon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
